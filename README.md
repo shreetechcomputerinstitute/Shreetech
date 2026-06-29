@@ -1,4 +1,3 @@
 # Shreetech
-This is my first respository
-<br>
+This is my first respository<br>
 Hello !!
